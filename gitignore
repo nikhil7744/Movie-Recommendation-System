@@ -1,0 +1,55 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folder
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Dataset files
+*.csv
+*.xlsx
+*.json
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+.venv
+.venv1
+*.idea
+
+
+# Virtual environments
+.venv/
+.venv1/
+
+# IDE settings
+.idea/
+
+# Dataset or pickle files (large files)
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache (agar use kiya ho)
+.streamlit/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
